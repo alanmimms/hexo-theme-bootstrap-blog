@@ -18,9 +18,10 @@ widgets:
 - archive
 - recent_posts
 about_widget_content: >
-  <p>Etiam porta <em>sem malesuada magna</em> mollis euismod.
-  Cras mattis consectetur purus sit amet fermentum. Aenean
-  lacinia bibendum nulla sed consectetur.</p>
+  <p>I’ve dreamt about the future my whole life. I imagine what life
+  can be like. I’m also an inventor and love gadgets. I can’t wait for
+  the creative world to bring us cool new stuff and exciting new ways
+  to do things, and I try to do what I can to help.</p>
 
 # widget behavior
 archive_type: 'monthly'
